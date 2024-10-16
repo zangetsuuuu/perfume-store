@@ -10,7 +10,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                neueCampton: ['Neue Campton', 'sans-serif'],
+                generalSans: ['General Sans', 'sans-serif'],
             },
         },
     },
